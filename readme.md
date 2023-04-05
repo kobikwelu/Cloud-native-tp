@@ -1,7 +1,7 @@
    
    
    Note - Test plans are prone to changes and multiple version updates after collaborating with cross-functional partners. 
-   This is shortened for brevity and illustation pueposes
+   This is shortened for brevity and illustation purposes
    
    Introduction
 
